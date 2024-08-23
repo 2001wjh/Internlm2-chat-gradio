@@ -1,5 +1,4 @@
-# OpenXLab 部署 InternLM2 实践指南
-
+# LLM-chat 的 web-ui 代码
 
 &nbsp; 
 ## 编写代码
