@@ -6,6 +6,7 @@
 
 本项目编写 LLM-chat 的 web-ui 代码，主要包括项目结构初始化、应用环境配置和 gradio 应用代码的编写
 
+![gradio_web_ui_step](./image/gradio_web_ui_step.png)
 
 ### 项目结构
 
