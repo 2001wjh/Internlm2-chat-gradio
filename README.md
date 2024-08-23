@@ -1,6 +1,3 @@
-![coverpage](./image/title.png)
-
-
 # OpenXLab 部署 InternLM2 实践指南
 
 
