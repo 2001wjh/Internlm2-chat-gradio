@@ -4,7 +4,7 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoModel
 
 # download internlm2 to the base_path directory using git tool
-base_path = './internlm2-chat-1.8b'
+base_path = './InternLM_assistant'
 os.system(f'git clone https://code.openxlab.org.cn/wjh2001/InternLM_assistant.git {base_path}')
 os.system(f'cd {base_path} && git lfs pull')
 
@@ -16,7 +16,7 @@ def chat(message,history):
         yield response
 
 gr.ChatInterface(chat,
-                 title="InternLM2-Chat-1.8B",
+                 title="InternLM_assistant",
                 description="""
 InternLM is mainly developed by Shanghai AI Laboratory, finetuning by wjh.  
                  """,
