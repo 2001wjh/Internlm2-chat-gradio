@@ -1,4 +1,4 @@
-# LLM-chat(InternLM2) 的 web-ui 代码
+# LLM(InternLM2)-chat 的 web-ui 代码
 &nbsp; 
 ## 编写代码
 
